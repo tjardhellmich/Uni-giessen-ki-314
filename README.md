@@ -7,4 +7,4 @@ Ziel: Vergleich eines Baseline-Modells (z.B. Linear Regression) mit einem Neural
 - src/ – Skripte (train/evaluate)
 - reports/figures – exportierte Plots
 - reports/tables – exportierte Tabellen
-- portfolio/ – Logbuch, Prompts, Textbausteine fürs e-Portfolio
+- portfolio/ – Logbuch, Textbausteine fürs e-Portfolio
